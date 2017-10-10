@@ -1,0 +1,2 @@
+After combing through the various conversations I collected I realized that the collection reveals less about the state of AI right now and more about how we humans have chosen to interact with it. 
+This brought to mind the image of a broken mirror - by chatting with the bot we are actually looking into our own, poor reflection.
