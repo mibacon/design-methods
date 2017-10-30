@@ -15,4 +15,4 @@ Using technology (either photos, physical monitor) to determine human emotion.
 * Curious to see the emotions that surround me
 * Feedback loop?
   Avoid: You look better when you smile.  
-  ![Avoid](https://media.giphy.com/media/3o7aDcNEcoPqyUKe40/giphy.gif)
+  ![Avoid](https://media.giphy.com/media/3o7aDcNEcoPqyUKe40/giphy.gif =150x)
