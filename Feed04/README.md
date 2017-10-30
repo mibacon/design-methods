@@ -18,7 +18,7 @@ Using technology (either photos, physical monitor) to determine human emotion.
   ![Avoid](https://media.giphy.com/media/3o7aDcNEcoPqyUKe40/giphy.gif)
 
 ### Input: Output
-![alt text] (https://mibacon.github.io/design-methods/Feed04/flow.jpg)
+![alt text] (https://mibacon.github.io/design-methods/Feed04/flow.JPG)
 
 ### Feed Options
 * 24 hour news
